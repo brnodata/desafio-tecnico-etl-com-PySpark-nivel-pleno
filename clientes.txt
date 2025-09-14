@@ -1,0 +1,16 @@
+cliente_id,nome,data_nascimento
+1,João Silva,1980-05-12
+2,Maria Souza,1995-07-30
+3,Carlos Pereira,1988-03-22
+4,Ana Oliveira,1992-11-10
+5,Pedro Santos,1979-09-05
+6,Juliana Costa,1985-01-17
+7,Ricardo Almeida,2000-06-25
+8,Fernanda Lima,1998-02-14
+9,Lucas Rocha,1993-08-08
+10,Patrícia Gomes,1987-12-01
+11,André Fernandes,1991-04-19
+12,Beatriz Martins,1996-10-27
+13,Fábio Moreira,1982-07-03
+14,Carolina Ribeiro,1999-09-15
+15,Gustavo Azevedo,1984-05-29
